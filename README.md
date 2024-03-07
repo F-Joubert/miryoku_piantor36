@@ -1,3 +1,5 @@
+Vial config so that I could use my Piantor out of the box without having to mess around with QMK.
+
 Layers were created following the Miryoku reference manual (https://github.com/manna-harbour/miryoku/tree/master/docs/reference).
 
 Layers:
